@@ -59,6 +59,9 @@ const Home = () => (
         <StyledLink to={`${defaultPath}heatmap`}>Heatmap</StyledLink>
       </ListItem>
       <ListItem>
+        <StyledLink to={`${defaultPath}heatmap`}>Animated Heatmap</StyledLink>
+      </ListItem>
+      <ListItem>
         <StyledLink to={`${defaultPath}searchbox`}>SearchBox</StyledLink>
       </ListItem>
       <ListItem>
